@@ -4,11 +4,11 @@ An auto shop application that sells various types of cars and race cars. Code re
 In my exmple, I will give 2 text files, one with clean data, one with messy data.
 
 cleanData.txt
-c, Toyota  , n, 157
-r, Jaguar  , u, 246, 0.2
-c, Honda   , b, 145
-r, Porche  , u, 261, 0.4
-c, Chrysler, n, 173
+-c, Toyota  , n, 157
+-r, Jaguar  , u, 246, 0.2
+-c, Honda   , b, 145
+-r, Porche  , u, 261, 0.4
+-c, Chrysler, n, 173
 
 c - car, r - racecar 
 n - new, b  broken u - used
